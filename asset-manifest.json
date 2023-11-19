@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ff0e4fcc.css",
+    "main.js": "./static/js/main.968aa9e0.js",
+    "static/media/白点+背景.png": "./static/media/白点+背景.5657c4e560933f4a6a64.png",
+    "static/media/组 2.png": "./static/media/组 2.47dcf910ab326f0dcc02.png",
+    "static/media/组 5.png": "./static/media/组 5.562e076ba40ab8578bef.png",
+    "static/media/螨虫深色（噪点 副本 6.png": "./static/media/螨虫深色（噪点 副本 6.51ea20916826d37d988d.png",
+    "static/media/下边装饰.png": "./static/media/下边装饰.5bfff5b35c26da395670.png",
+    "static/media/螨虫深色（噪点 副本 8.png": "./static/media/螨虫深色（噪点 副本 8.30a076abfb1f81e0e3b8.png",
+    "static/media/螨虫深色（噪点 副本222.png": "./static/media/螨虫深色（噪点 副本222.c0fd401085fccfa4a946.png",
+    "static/media/红包.png": "./static/media/红包.526c9e5ecf62ed573f54.png",
+    "static/media/组 1.png": "./static/media/组 1.6855ff6f1d2ee7b444f1.png",
+    "static/media/螨虫深色（噪点 副本 4.png": "./static/media/螨虫深色（噪点 副本 4.5f17242a7c62a58ec078.png",
+    "static/media/box.png": "./static/media/box.ce01a537ca6925be49ba.png",
+    "static/media/螨虫深色（噪点 副本 7.png": "./static/media/螨虫深色（噪点 副本 7.610d866d5db0212132dd.png",
+    "static/media/彩旗.png": "./static/media/彩旗.d6dee8c4768937e4311b.png",
+    "static/media/标题.png": "./static/media/标题.baeeba3f391583286177.png",
+    "static/media/大声喊：婷，一个“婷”杀灭一只螨虫.png": "./static/media/大声喊：婷，一个“婷”杀灭一只螨虫.cd820dea5654b9bc1939.png",
+    "static/media/下放语音条.png": "./static/media/下放语音条.87a3821205a3be1078b4.png",
+    "static/media/圆角矩形 2.png": "./static/media/圆角矩形 2.e9a1d851a4fc7eea4afb.png",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ff0e4fcc.css",
+    "static/js/main.968aa9e0.js"
+  ]
+}
